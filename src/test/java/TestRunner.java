@@ -4,7 +4,7 @@ import org.junit.runner.RunWith;
 // To override the cucumber options through command line options is
 //sudo mvn clean test -Dcucumber.features="src/test/java/features/batTests/Bat01.feature"
 //                    -Dcucumber.glue="Steps"
-//                    -Dcucumber.plugin="junit:/target/cucumber/report.json"
+//                    -Dcucumber.plugin="junit:target/cucumber/report.json"
 //                    -Dcucumber.tags="@smoke"
 
 @RunWith(Cucumber.class)
