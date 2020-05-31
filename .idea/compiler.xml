@@ -7,11 +7,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="DemoCucumberProject" />
+        <module name="SampleCucumberProject" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="DemoCucumberProject" target="1.8" />
+      <module name="SampleCucumberProject" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

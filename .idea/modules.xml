@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../SampleCucumberProject/DemoCucumberProject.iml" filepath="$PROJECT_DIR$/../SampleCucumberProject/DemoCucumberProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SampleCucumberProject.iml" filepath="$PROJECT_DIR$/SampleCucumberProject.iml" />
     </modules>
   </component>
 </project>
